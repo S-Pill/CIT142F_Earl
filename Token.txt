@@ -1,7 +1,7 @@
 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
 
 Setting up token (optional)
-git remote set-url origin https://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@github.com/primusr/cit142f.git
+git remote set-url origin https://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@github.com/S-Pill/CIT142F_Earl.git
 
 Add files to your local repository
 
